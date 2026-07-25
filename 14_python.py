@@ -1,5 +1,5 @@
 age = int(input("Enter your age :"))
-
+#conditional statements
 if(age < 18 ):
     print("you cant drive ")
 

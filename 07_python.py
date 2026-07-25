@@ -1,5 +1,5 @@
 name = "divansh"
-
+#       0123456
 #slicing
 
 print(name[0:7])
