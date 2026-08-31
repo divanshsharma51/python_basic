@@ -1,1 +1,0 @@
-print("your number is less than 10 ") ifz
