@@ -1,0 +1,2 @@
+hello this is a text file for testing (read)
+file I/O
