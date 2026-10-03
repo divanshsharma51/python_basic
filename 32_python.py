@@ -18,7 +18,7 @@ def check_word(word):
     with open("demo4.txt","r") as f:
         line = 1
         data = True
-        while True:
+        while data:
             data = f.readline()
             if  word in data :
                 print("Your word is in line ",line)
@@ -28,4 +28,4 @@ def check_word(word):
     print(-1)
             
     
-check_word("python")
+check_word("pythen")
