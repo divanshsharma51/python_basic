@@ -28,4 +28,4 @@ def check_word(word):
     print(-1)
             
     
-check_word("pythen")
+check_word("python")
