@@ -1,4 +1,4 @@
-#Guessing a no.
+#Guessing a number 
 import random
 
 randnum = random.randint(0,100)
@@ -6,7 +6,7 @@ randnum = random.randint(0,100)
 attempt = 0 
 
 while True:
-    num = input("Guess a number between 1 to 100 or q to quit : ")
+    num = input("Guess a number between 1 to 100 or Q to quit : ")
     
     
     if num == "Q" or "q":
